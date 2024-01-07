@@ -1,0 +1,5 @@
+fastapi==0.104.1
+aiohttp==3.8.6
+passlib[bcrypt]==1.7.4
+uvicorn[standard]==0.24.0.post1
+elastic-apm==6.19.0

@@ -1,0 +1,6 @@
+project: alertmanager-express-bridge
+configVersion: 1
+---
+image: api
+dockerfile: Dockerfile
+target: api
